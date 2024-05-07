@@ -1,8 +1,13 @@
 # USRP FPGA B210 Files
 
+## FPGA bin description
+
+| File | Description |
+| --- | --- |
+| TODO | List all new or modified files |
+| TODO |  List all new or modified files |
 
 ## Loading the bin files
-
 
 ### Load the file into the USRP
 
